@@ -1,0 +1,26 @@
+Task Name	Start Date	End Date	Owner
+Project Charter	9/19/2025	9/20/2025	Abdul Ahad
+Identify Stakeholders	9/19/2025	9/21/2025	Abdul Ahad
+Kickoff Meeting	9/22/2025	9/22/2025	Team
+Gather Requirements	9/23/2025	9/30/2025	Abdur Rafae
+Scope & WBS	9/25/2025	9/27/2025	Abdul Ahad
+Risk Plan	9/28/2025	10/1/2025	Abdul Ahad
+Performance Metrics	10/4/2025	10/5/2025	Abdul Ahad
+Baseline Gantt	10/7/2025	10/9/2025	Abdul Ahad
+Data Collection	10/10/2025	10/17/2025	Abdur Rafae
+Data Cleaning	10/21/2025	10/28/2025	Abdur Rafae
+Backend Pipeline	10/31/2025	11/5/2025	Abdur Rafae
+Unit Testing	11/7/2025	11/8/2025	Abdur Rafae
+Train ML Model	11/10/2025	11/25/2025	Abdur Rafae
+Evaluate Model	11/29/2025	12/5/2025	Abdur Rafae
+API Integration	12/1/2025	12/5/2025	Abdur Rafae
+Recommendation Logic	10/21/2025	10/30/2025	Abdur Rafae
+Notification System	10/21/2025	10/31/2025	Jibran Malik
+Dashboard Integration	11/4/2025	11/11/2025	Team
+End-to-End Testing	11/14/2025	11/16/2025	Team
+UI Design	10/21/2025	10/31/2025	Jibran Malik
+Analytics Charts	11/4/2025	11/13/2025	Jibran Malik
+Usability Testing	11/16/2025	11/20/2025	Jibran Malik
+Final Testing	11/25/2025	12/2/2025	Team
+Documentation	11/25/2025	12/3/2025	Abdul Ahad
+Final Presentation	12/3/2025	12/6/2025	Team

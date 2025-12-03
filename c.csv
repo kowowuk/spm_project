@@ -1,0 +1,27 @@
+Task Name,Start Date,End Date,Duration,Assigned To,Status
+Project Charter,09/19/2025,09/20/2025,2,AA,Complete
+Identify Stakeholders,09/19/2025,09/21/2025,3,AA,Complete
+Kickoff Meeting,09/22/2025,09/22/2025,1,All,Complete
+Gather Requirements,09/23/2025,09/30/2025,8,AR/JM,Complete
+Scope Statement & WBS,09/25/2025,09/27/2025,3,AA,Complete
+Risk & Comm Plan,09/28/2025,10/01/2025,4,AA,Complete
+Performance Metrics,10/04/2025,10/05/2025,2,AA,Complete
+Baseline Gantt,10/07/2025,10/09/2025,3,AA,Complete
+Data Collection,10/10/2025,10/17/2025,8,AR,Complete
+Data Cleaning,10/21/2025,10/28/2025,8,AR,In Progress
+Backend Pipeline,10/31/2025,11/05/2025,6,AR,Not Started
+Unit Testing (Data),11/07/2025,11/08/2025,2,AR,Not Started
+Train ML Model,11/10/2025,11/25/2025,16,AR,Not Started
+Evaluate Model,11/29/2025,12/05/2025,7,AR/AA,Not Started
+API Integration,12/01/2025,12/05/2025,5,AR,Not Started
+Optimize Model,12/02/2025,12/04/2025,3,AR,Not Started
+Recommendation Logic,10/21/2025,10/30/2025,10,AR,In Progress
+Notification System,10/21/2025,10/31/2025,11,JM,In Progress
+Dashboard Integration,11/04/2025,11/11/2025,8,AR/JM,Not Started
+End-to-End Testing,11/14/2025,11/16/2025,3,All,Not Started
+UI Design,10/21/2025,10/31/2025,11,JM,In Progress
+Analytics Charts,11/04/2025,11/13/2025,10,JM,Not Started
+Usability Testing,11/16/2025,11/20/2025,5,JM,Not Started
+Final Testing,11/25/2025,12/02/2025,8,All,Not Started
+Documentation,11/25/2025,12/03/2025,9,AA,Not Started
+Final Presentation,12/03/2025,12/06/2025,4,All,Not Started
